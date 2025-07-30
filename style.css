@@ -1,0 +1,86 @@
+.tudo {
+    background-color: #0a0a0a;
+    font-family: 'Cormorant', sans-serif;
+    margin: 0;
+    padding: 0;
+    color: rgb(242, 242, 242);
+}
+
+.Titulo {
+    text-align: center;
+    background-color:black;
+    color: #b30000;
+    padding: 10px;
+    font-size: 2em;
+    font-weight: bold;
+    letter-spacing: 2px;
+    border: 2px solid #8b0000;
+}
+
+.tituloo {
+    text-align: center;
+    background-color: #333;
+    color: #f2f2f2;
+    padding: 10px;
+    font-size: 1.4em;
+    font-weight: bold;
+    border-bottom: 2px solid #8b0000;
+    border-right: 2px solid #8b0000;
+    border-left: 2px solid #8b0000;
+}
+
+
+.img1 {
+    text-align: center;
+    margin-top: 20px;
+}
+
+.img1 img {
+    display: inline-block;
+    max-width: 100%;
+    height:auto;
+    border: 2px solid #8b0000;
+    border-radius: 4px;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    box-shadow: 0 0 10px #b30000;
+}
+
+
+.frase2 {
+    text-align: center;
+    font-style: italic;
+    margin-top: 30px;
+    font-size: 1.2em;
+    color: #ccc
+}
+
+.criador {
+    text-align: center;
+    background-color: #000000;
+    padding:20px;
+    border: 2px solid #8b0000;
+    box-shadow: 0 0 10px #b30000;
+}
+
+.atuais {
+    margin: 20px;
+}
+
+.antigos {
+    margin: 20px;
+    margin-bottom: 100px;
+}
+
+.apotify {
+    text-align: left;
+}
+
+.yt {
+    text-align: left;
+}
+
+.instagram {
+    text-align: left;
+}
